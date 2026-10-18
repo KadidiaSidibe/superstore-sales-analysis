@@ -13,7 +13,7 @@ Excel — nettoyage des données, tableaux croisés dynamiques, graphiques
 ## Résultats
 - Les **copieurs** sont la sous-catégorie la plus rentable.
 - La région **West** génère le plus de ventes ; **2017** est la meilleure année.
-- Les ventes culminent en **novembre-décembre** (fêtes) et en **septembre** (rentrée), avec un creux en février (~352 000 $ vs ~9 800 $).
+- Les ventes culminent en **novembre-décembre** (fêtes) et en **septembre** (rentrée), avec un creux en février (~352 000 $ vs ~59 800 $).
 
 ## Fichier
 Le tableau de bord complet est dans l'onglet « Dashboard » du fichier Excel.
